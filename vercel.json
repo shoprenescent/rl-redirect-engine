@@ -1,1 +1,84 @@
-
+{
+“redirects”: [
+{
+“source”: “/m1p1-doc”,
+“destination”: “https://platform.openai.com/docs/guides/prompt-engineering”
+},
+{
+“source”: “/m1p1-article”,
+“destination”: “https://www.ibm.com/think/topics/prompt-engineering”
+},
+{
+“source”: “/m1p1-course”,
+“destination”: “https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/information”
+},
+{
+“source”: “/m1p1-video”,
+“destination”: “https://youtu.be/qJ8f90aU8qw”
+},
+{
+“source”: “/m1p2-doc”,
+“destination”: “https://www.promptingguide.ai/techniques/prompt_chaining”
+},
+{
+“source”: “/m1p2-article”,
+“destination”: “https://www.ibm.com/think/topics/prompt-chaining”
+},
+{
+“source”: “/m1p2-course”,
+“destination”: “https://www.datacamp.com/tutorial/prompt-chaining-llm”
+},
+{
+“source”: “/m1p2-video”,
+“destination”: “https://youtu.be/B4MR8m7V17A”
+},
+{
+“source”: “/m1p3-doc”,
+“destination”: “https://zapier.com/blog/workflow-automation/”
+},
+{
+“source”: “/m1p3-article”,
+“destination”: “https://www.make.com/en/blog/what-is-ai-automation”
+},
+{
+“source”: “/m1p3-course”,
+“destination”: “https://academy.notion.com/getting-started-with-notion-ai/312861/scorm/1kocfqc5pjpkz”
+},
+{
+“source”: “/m1p3-video”,
+“destination”: “https://youtu.be/cYbcgtK0v_Q”
+},
+{
+“source”: “/m1p4-doc”,
+“destination”: “https://www.factr.me/blog/building-ai-powered-workflows”
+},
+{
+“source”: “/m1p4-article”,
+“destination”: “https://www.bairesdev.com/blog/how-to-develop-an-ai-system-steps/”
+},
+{
+“source”: “/m1p4-course”,
+“destination”: “https://www.freecodecamp.org/news/how-to-build-ai-workflows-with-n8n/”
+},
+{
+“source”: “/m1p4-video”,
+“destination”: “https://youtu.be/GchXMRwuWxE”
+},
+{
+“source”: “/m1p5-doc”,
+“destination”: “https://platform.openai.com/docs/guides/production-best-practices”
+},
+{
+“source”: “/m1p5-article”,
+“destination”: “https://www.ibm.com/think/insights/scale-ai-agents-business”
+},
+{
+“source”: “/m1p5-course”,
+“destination”: “https://magai.co/scale-ai-workflows-for-teams/”
+},
+{
+“source”: “/m1p5-video”,
+“destination”: “https://youtu.be/2-9GpXyduRE”
+}
+]
+}
