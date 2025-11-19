@@ -1,8 +1,103 @@
 {
   "redirects": [
     {
-      "source": "/test",
-      "destination": "https://google.com",
+      "source": "/rl-m1-p1-doc",
+      "destination": "https://platform.openai.com/docs/guides/prompt-engineering",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p1-article",
+      "destination": "https://www.ibm.com/think/topics/prompt-engineering",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p1-course",
+      "destination": "https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/information",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p1-video",
+      "destination": "https://youtu.be/qJ8f90Au8qw?si=zdyRUY760FFtH2HM",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p2-doc",
+      "destination": "https://www.promptingguide.ai/techniques/prompt_chaining",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p2-article",
+      "destination": "https://www.ibm.com/think/topics/prompt-chaining",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p2-course",
+      "destination": "https://www.datacamp.com/tutorial/prompt-chaining-llm",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p2-video",
+      "destination": "https://youtu.be/B4RM8m7V17A?si=1X6E07D9argY8_qa",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p3-doc",
+      "destination": "https://zapier.com/blog/workflow-automation/",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p3-article",
+      "destination": "https://www.make.com/en/blog/what-is-ai-automation",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p3-course",
+      "destination": "https://academy.notion.com/getting-started-with-notion-ai/312861/scorm/1kocfqc5pjpgkz",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p3-video",
+      "destination": "https://youtu.be/cYbcgtK0v_Q?si=juxsZYBCEjvwvgF4",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p4-doc",
+      "destination": "https://www.factor.io/en/blog/building-ai-powered-workflows",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p4-article",
+      "destination": "https://www.bairesdev.com/blog/how-to-develop-an-ai-system-steps/",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p4-course",
+      "destination": "https://www.freecodecamp.org/news/how-to-build-ai-workflows-with-n8n/",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p4-video",
+      "destination": "https://youtu.be/GchXMRwuWkE?si=DlvztsyoMj0bttSB",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p5-doc",
+      "destination": "https://platform.openai.com/docs/guides/production-best-practices",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p5-article",
+      "destination": "https://www.ibm.com/think/insights/scale-ai-agents-business",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p5-course",
+      "destination": "https://magai.co/scale-ai-workflows-for-teams/",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p5-video",
+      "destination": "https://youtu.be/2-9GpXyduRE?si=aGYaz37ONNwv6RY7",
       "permanent": false
     }
   ]
