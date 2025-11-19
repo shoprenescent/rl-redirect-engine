@@ -17,7 +17,7 @@
     },
     {
       "source": "/rl-m1-p1-video",
-      "destination": "https://youtu.be/qJ8f90Au8qw?si=zdyRUY760FFtH2HM",
+      "destination": "https://youtu.be/qJ8f90Au8qw",
       "permanent": false
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "source": "/rl-m1-p2-video",
-      "destination": "https://youtu.be/B4RM8m7V17A?si=1X6E07D9argY8_qa",
+      "destination": "https://youtu.be/B4MR8m7V17A",
       "permanent": false
     },
     {
@@ -52,17 +52,17 @@
     },
     {
       "source": "/rl-m1-p3-course",
-      "destination": "https://academy.notion.com/getting-started-with-notion-ai/312861/scorm/1kocfqc5pjpgkz",
+      "destination": "https://academy.notion.com/getting-started-with-notion-ai/312861/scorm/1kocfqc5pjpkz",
       "permanent": false
     },
     {
       "source": "/rl-m1-p3-video",
-      "destination": "https://youtu.be/cYbcgtK0v_Q?si=juxsZYBCEjvwvgF4",
+      "destination": "https://youtu.be/cYbcgtK0v_Q",
       "permanent": false
     },
     {
       "source": "/rl-m1-p4-doc",
-      "destination": "https://www.factor.io/en/blog/building-ai-powered-workflows",
+      "destination": "https://www.factr.me/blog/building-ai-powered-workflows",
       "permanent": false
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "source": "/rl-m1-p4-video",
-      "destination": "https://youtu.be/GchXMRwuWkE?si=DlvztsyoMj0bttSB",
+      "destination": "https://youtu.be/GchXMRwuWxE",
       "permanent": false
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "source": "/rl-m1-p5-video",
-      "destination": "https://youtu.be/2-9GpXyduRE?si=aGYaz37ONNwv6RY7",
+      "destination": "https://youtu.be/2-9GpXyduRE",
       "permanent": false
     }
   ]
