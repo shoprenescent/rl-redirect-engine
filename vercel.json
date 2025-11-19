@@ -1,15 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/test-old",
-      "destination": "/test-new",
+      "source": "/test",
+      "destination": "https://google.com",
       "permanent": false
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/404"
     }
   ]
 }
