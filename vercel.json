@@ -17,9 +17,10 @@
     },
     {
       "source": "/rl-m1-p1-video",
-      "destination": "https://youtu.be/qJ8f90Au8qw",
+      "destination": "https://youtu.be/qJ8f90aU8qw?si=4PaaXvRj8_x--mds",
       "permanent": false
     },
+
     {
       "source": "/rl-m1-p2-doc",
       "destination": "https://www.promptingguide.ai/techniques/prompt_chaining",
@@ -37,9 +38,10 @@
     },
     {
       "source": "/rl-m1-p2-video",
-      "destination": "https://youtu.be/B4MR8m7V17A",
+      "destination": "https://youtu.be/B4MR8m7V17A?si=1XE6E07D9argY8_qa",
       "permanent": false
     },
+
     {
       "source": "/rl-m1-p3-doc",
       "destination": "https://zapier.com/blog/workflow-automation/",
@@ -57,12 +59,13 @@
     },
     {
       "source": "/rl-m1-p3-video",
-      "destination": "https://youtu.be/cYbcgtK0v_Q",
+      "destination": "https://youtu.be/cYbcgtK0V_Q?si=juxsZYBCEjvwwgF4",
       "permanent": false
     },
+
     {
       "source": "/rl-m1-p4-doc",
-      "destination": "https://www.factr.me/blog/building-ai-powered-workflows",
+      "destination": "https://www.tally.so/blog/building-ai-powered-workflows",
       "permanent": false
     },
     {
@@ -77,9 +80,10 @@
     },
     {
       "source": "/rl-m1-p4-video",
-      "destination": "https://youtu.be/GchXMRwuWxE",
+      "destination": "https://youtu.be/GchXMRwuWxE?si=DIVztsyoMj0bttSB",
       "permanent": false
     },
+
     {
       "source": "/rl-m1-p5-doc",
       "destination": "https://platform.openai.com/docs/guides/production-best-practices",
@@ -97,7 +101,7 @@
     },
     {
       "source": "/rl-m1-p5-video",
-      "destination": "https://youtu.be/2-9GpXyduRE",
+      "destination": "https://youtu.be/2-9GpXyduRE?si=aGYaz37ONNwv6RY7",
       "permanent": false
     }
   ]
