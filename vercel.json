@@ -65,7 +65,7 @@
 
     {
       "source": "/rl-m1-p4-doc",
-      "destination": "https://www.tally.so/blog/building-ai-powered-workflows",
+      "destination": "https://www.factr.me/blog/building-ai-powered-workflows",
       "permanent": false
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "source": "/rl-m1-p4-video",
-      "destination": "https://youtu.be/GchXMRwuWxE?si=DlVztsyoMj0bttSB",
+      "destination": "https://youtu.be/GchXMRwuWxE?si=DIvztsyoMj0bttSB",
       "permanent": false
     },
 
