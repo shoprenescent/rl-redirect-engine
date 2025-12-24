@@ -1,56 +1,56 @@
 {
   "redirects": [
     {
-      "source": "/m1p1-industry",
+      "source": "/rl-m1-p1-article",
       "destination": "https://www.ibm.com/think/topics/large-language-models",
       "permanent": false
     },
     {
-      "source": "/m1p1-screencourse",
-      "destination": "https://www.youtube.com/watch?v=qJ8f90aU8qw",
+      "source": "/rl-m1-p1-video",
+      "destination": "https://youtu.be/qJ8f90aU8qw?si=zdyRUY760FfTH2HM",
       "permanent": false
     },
 
     {
-      "source": "/m1p2-industry",
-      "destination": "https://platform.openai.com/docs/concepts/tokens",
+      "source": "/rl-m1-p2-article",
+      "destination": "https://platform.openai.com/docs/guides/prompt-engineering",
       "permanent": false
     },
     {
-      "source": "/m1p2-screencourse",
-      "destination": "https://www.youtube.com/watch?v=Qq2kKzN4J9A",
-      "permanent": false
-    },
-
-    {
-      "source": "/m1p3-industry",
-      "destination": "https://www.ibm.com/think/topics/ai-systems",
-      "permanent": false
-    },
-    {
-      "source": "/m1p3-screencourse",
-      "destination": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "source": "/rl-m1-p2-video",
+      "destination": "https://youtu.be/B4MR8m7V17A?si=1X6E07D9argY8_qa",
       "permanent": false
     },
 
     {
-      "source": "/m1p4-industry",
-      "destination": "https://www.ibm.com/think/topics/ai-hallucinations",
+      "source": "/rl-m1-p3-article",
+      "destination": "https://www.promptingguide.ai/research/llm-reasoning",
       "permanent": false
     },
     {
-      "source": "/m1p4-screencourse",
-      "destination": "https://www.youtube.com/watch?v=QnK5xgBf0tA",
+      "source": "/rl-m1-p3-video",
+      "destination": "https://www.youtube.com/watch?v=enLbj0igyx4",
       "permanent": false
     },
 
     {
-      "source": "/m1p5-industry",
+      "source": "/rl-m1-p4-article",
+      "destination": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m1-p4-video",
+      "destination": "https://www.youtube.com/watch?v=Yq0QkCxoTHM",
+      "permanent": false
+    },
+
+    {
+      "source": "/rl-m1-p5-article",
       "destination": "https://www.make.com/en/blog/what-is-ai-automation",
       "permanent": false
     },
     {
-      "source": "/m1p5-screencourse",
+      "source": "/rl-m1-p5-video",
       "destination": "https://www.youtube.com/watch?v=XguXU3NjnpE",
       "permanent": false
     }
