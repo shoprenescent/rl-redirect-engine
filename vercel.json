@@ -1,71 +1,57 @@
 {
   "redirects": [
     {
-      "source": "/rl-m1-p1-doc",
+      "source": "/m1p1-industry",
+      "destination": "https://www.ibm.com/think/topics/large-language-models",
+      "permanent": false
+    },
+    {
+      "source": "/m1p1-screencourse",
+      "destination": "https://youtu.be/qJ8f90aU8qw?si=zdyRUY760FfTH2HM",
+      "permanent": false
+    },
+
+    {
+      "source": "/m1p2-industry",
       "destination": "https://platform.openai.com/docs/guides/prompt-engineering",
       "permanent": false
     },
     {
-      "source": "/rl-m1-p1-article",
-      "destination": "https://www.ibm.com/think/topics/prompt-engineering",
-      "permanent": false
-    },
-    {
-      "source": "/rl-m1-p1-course",
-      "destination": "https://learn.deeplearning.ai/chatgpt-prompt-engineering-for-developers",
-      "permanent": false
-    },
-    {
-      "source": "/rl-m1-p1-video",
-      "destination": "https://youtu.be/qJ8f90aU8qw",
+      "source": "/m1p2-screencourse",
+      "destination": "https://youtu.be/B4MR8m7V17A?si=1X6E07D9argY8_qa",
       "permanent": false
     },
 
     {
-      "source": "/rl-m1-p3-doc",
-      "destination": "https://noteforms.com/resources/notion-workflow-automation",
+      "source": "/m1p3-industry",
+      "destination": "https://www.promptingguide.ai/research/llm-reasoning",
       "permanent": false
     },
     {
-      "source": "/rl-m1-p3-article",
-      "destination": "https://zapier.com/blog/ai-automation/",
-      "permanent": false
-    },
-    {
-      "source": "/rl-m1-p3-video",
-      "destination": "https://youtu.be/Jeu6z3hH0R0",
+      "source": "/m1p3-screencourse",
+      "destination": "https://www.youtube.com/watch?v=enLbj0igyx4",
       "permanent": false
     },
 
     {
-      "source": "/rl-m1-p4-doc",
-      "destination": "https://www.ibm.com/think/topics/ai-workflow",
+      "source": "/m1p4-industry",
+      "destination": "https://www.ibm.com/think/topics/artificial-intelligence",
       "permanent": false
     },
     {
-      "source": "/rl-m1-p4-article",
-      "destination": "https://www.bairesdev.com/blog/developing-ai-systems/",
-      "permanent": false
-    },
-    {
-      "source": "/rl-m1-p4-video",
-      "destination": "https://youtu.be/GchXMRwuWxE",
+      "source": "/m1p4-screencourse",
+      "destination": "https://www.youtube.com/watch?v=Yq0QkCxoTHM",
       "permanent": false
     },
 
     {
-      "source": "/rl-m1-p5-doc",
-      "destination": "https://platform.openai.com/docs/guides/production-best-practices",
+      "source": "/m1p5-industry",
+      "destination": "https://www.make.com/en/blog/what-is-ai-automation",
       "permanent": false
     },
     {
-      "source": "/rl-m1-p5-article",
-      "destination": "https://www.ibm.com/think/topics/scaling-ai",
-      "permanent": false
-    },
-    {
-      "source": "/rl-m1-p5-course",
-      "destination": "https://magai.co/building-ai-workflows-business-guide/",
+      "source": "/m1p5-screencourse",
+      "destination": "https://www.youtube.com/watch?v=XguXU3NjnpE",
       "permanent": false
     }
   ]
