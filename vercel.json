@@ -7,40 +7,40 @@
     },
     {
       "source": "/m1p1-screencourse",
-      "destination": "https://youtu.be/qJ8f90aU8qw?si=zdyRUY760FfTH2HM",
+      "destination": "https://www.youtube.com/watch?v=qJ8f90aU8qw",
       "permanent": false
     },
 
     {
       "source": "/m1p2-industry",
-      "destination": "https://platform.openai.com/docs/guides/prompt-engineering",
+      "destination": "https://platform.openai.com/docs/concepts/tokens",
       "permanent": false
     },
     {
       "source": "/m1p2-screencourse",
-      "destination": "https://youtu.be/B4MR8m7V17A?si=1X6E07D9argY8_qa",
+      "destination": "https://www.youtube.com/watch?v=Qq2kKzN4J9A",
       "permanent": false
     },
 
     {
       "source": "/m1p3-industry",
-      "destination": "https://www.promptingguide.ai/research/llm-reasoning",
+      "destination": "https://www.ibm.com/think/topics/ai-systems",
       "permanent": false
     },
     {
       "source": "/m1p3-screencourse",
-      "destination": "https://www.youtube.com/watch?v=enLbj0igyx4",
+      "destination": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
       "permanent": false
     },
 
     {
       "source": "/m1p4-industry",
-      "destination": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "destination": "https://www.ibm.com/think/topics/ai-hallucinations",
       "permanent": false
     },
     {
       "source": "/m1p4-screencourse",
-      "destination": "https://www.youtube.com/watch?v=Yq0QkCxoTHM",
+      "destination": "https://www.youtube.com/watch?v=QnK5xgBf0tA",
       "permanent": false
     },
 
