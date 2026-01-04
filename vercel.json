@@ -53,6 +53,61 @@
       "source": "/rl-m1-p5-video",
       "destination": "https://www.youtube.com/watch?v=XguXU3NjnpE",
       "permanent": false
+    },
+
+    {
+      "source": "/rl-m2-p1-article",
+      "destination": "https://hello.podium.page/blog/how-to-choose-your-niche-as-a-content-creator",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m2-p1-video",
+      "destination": "https://youtu.be/95YlmNgna4U?si=yueOqEO864Nyovcg",
+      "permanent": false
+    },
+
+    {
+      "source": "/rl-m2-p2-article",
+      "destination": "https://www.contentellect.com/ai-in-content-creation/",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m2-p2-video",
+      "destination": "https://youtu.be/HGZnMJFLuqE?si=c0q2j8NhZkBXmVMv",
+      "permanent": false
+    },
+
+    {
+      "source": "/rl-m2-p3-article",
+      "destination": "https://artemis.marketing/blog/how-to-use-ai-to-generate-creative-content-ideas/",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m2-p3-video",
+      "destination": "https://youtu.be/duGOA6ZiGtE?si=vnWp7tBAlB20KCO7",
+      "permanent": false
+    },
+
+    {
+      "source": "/rl-m2-p4-article",
+      "destination": "https://maekersuite.com/blog/ai-for-screenwriting",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m2-p4-video",
+      "destination": "https://youtu.be/hNKdByr618M?si=lg_hmXpsOGDZqc7G",
+      "permanent": false
+    },
+
+    {
+      "source": "/rl-m2-p5-article",
+      "destination": "https://support.google.com/drive/answer/2424384?hl=en",
+      "permanent": false
+    },
+    {
+      "source": "/rl-m2-p5-video",
+      "destination": "https://youtu.be/luH4t1kZ5CA?si=sSGvSHi3umAkBXYT",
+      "permanent": false
     }
   ]
 }
